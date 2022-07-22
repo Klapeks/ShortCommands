@@ -1,0 +1,6 @@
+name: MShortCommands
+description: 'Short Commands'
+author: Klapeks
+main: com.klapeks.sc.ShortCommands
+version: 1.0
+api-version: 1.13
